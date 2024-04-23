@@ -5,6 +5,8 @@
 <p align="left">a passionate software engineer with expertise in Flutter development, software engineering, and ICT. Dedicated to building innovative mobile applications. Excels in cross-platform solutions and advancing digital technologies.</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yahia-safwat&label=Profile%20views&color=0e75b6&style=flat" alt="yahia-safwat" /> </p>
 
 <!--

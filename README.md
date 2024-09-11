@@ -2,7 +2,7 @@
 ![MasterHead](https://drive.google.com/uc?export=view&id=1xOW1599_T2KbA1ZviGMyC2VU7S4OK3HG) 
 -->
 <h1 align="left">Hi 👋, I'm Yahia-Safwat</h1>
-<p align="left">a dedicated IT Support Specialist and skilled Flutter developer, passionate about leveraging technology to solve challenges. Proficient in troubleshooting and maintaining IT systems while also excelling in cross-platform Flutter development, focusing on innovative mobile solutions and advancing digital technologies.</p>
+<p align="left">a dedicated ICT Specialist and skilled Flutter developer, passionate about leveraging technology to solve challenges. Proficient in troubleshooting and maintaining IT systems while also excelling in cross-platform Flutter development, focusing on innovative mobile solutions and advancing digital technologies.</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <br>
@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [Foodly Mobile App](https://github.com/yahia-safwat/foodly)
 
-- 🌱 I’m currently mastering **Microsoft Azure** and **Office 365**.
+- 🌱 I’m currently mastering **Dart** and **Flutter**.
 
 - 📝 I often write articles on [linkedIn.com/yahia-safwat](https://www.linkedin.com/in/yahia-safwat/)
 

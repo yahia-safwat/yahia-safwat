@@ -2,7 +2,7 @@
 ![MasterHead](https://drive.google.com/uc?export=view&id=1xOW1599_T2KbA1ZviGMyC2VU7S4OK3HG) 
 -->
 <h1 align="left">Hi 👋, I'm Yahia-Safwat</h1>
-<p align="left">a dedicated ICT Specialist and skilled Flutter developer, passionate about leveraging technology to solve challenges. Proficient in troubleshooting and maintaining IT systems while also excelling in cross-platform Flutter development, focusing on innovative mobile solutions and advancing digital technologies.</p>
+<p align="left">A Flutter developer with a strong background in ICT, passionate about leveraging technology to create innovative mobile solutions. Proficient in building cross-platform applications with Flutter, while also skilled in troubleshooting and optimizing IT systems to enhance digital experiences and drive technology-driven progress.</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <br>
@@ -13,13 +13,13 @@
 <p align="left"> <a href="https://twitter.com/yahiasafwat5" target="blank"><img src="https://img.shields.io/twitter/follow/yahiasafwat5?logo=twitter&style=for-the-badge" alt="yahiasafwat5" /></a> </p>
 -->
 
-- 🔭 I’m currently working on [Foodly Mobile App](https://github.com/yahia-safwat/foodly)
+<!-- - 🔭 I’m currently working on [Foodly Mobile App](https://github.com/yahia-safwat/foodly)-->
 
 - 🌱 I’m currently mastering **Dart** and **Flutter**.
 
-- 📝 I often write articles on [linkedIn.com/yahia-safwat](https://www.linkedin.com/in/yahia-safwat/)
+- 💬 Ask me about **Flutter, Dart, and mobile app development**.
 
-- 💬 Ask me about **IT Support, Dart, and Flutter**.
+- 📝 I often write articles on [linkedIn.com/yahia-safwat](https://www.linkedin.com/in/yahia-safwat/)
 
 - 📫 How to reach me **yahiasafwat95@gmail.com**
 
